@@ -8,11 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47c59f11-ee63-469b-aef4-216bf024c1ab" name="Changes" comment="Connection EF">
-      <change afterPath="$PROJECT_DIR$/AirAstana/Models/ApplicationContext.cs" afterDir="false" />
+    <list default="true" id="47c59f11-ee63-469b-aef4-216bf024c1ab" name="Changes" comment="Add ApplicationContext">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AirAstana/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AirAstana/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AirAstana/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AirAstana/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AirAstana/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AirAstana/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver.localdb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -41,6 +39,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="RiderIisExpressOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -90,7 +89,7 @@
       <workItem from="1686562993177" duration="32000" />
       <workItem from="1686563280075" duration="1282000" />
       <workItem from="1686564656138" duration="672000" />
-      <workItem from="1686565366343" duration="776000" />
+      <workItem from="1686565366343" duration="1776000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1686562785009</created>
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686565787614</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add ApplicationContext">
+      <created>1686566274521</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686566274521</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +168,7 @@
     <MESSAGE value="Create model for Role" />
     <MESSAGE value="Connection Swagger" />
     <MESSAGE value="Connection EF" />
-    <option name="LAST_COMMIT_MESSAGE" value="Connection EF" />
+    <MESSAGE value="Add ApplicationContext" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ApplicationContext" />
   </component>
 </project>
